@@ -36,9 +36,9 @@ npm install
 
 1. Register [Rynus MiniApp](https://t.me/RynusAppBot/rynus_labeling_mini_app?startapp=6944804952)
 
-2. Get your auth token (follow these steps):
+2. Get your query
 
-3. For multiple accounts, add each auth token on a new line in `data.txt`
+3. For multiple accounts, add each query on a new line in `data.txt`
 
 ## Usage
 
